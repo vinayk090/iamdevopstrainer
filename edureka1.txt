@@ -1,5 +1,7 @@
 Hi This is a session from vinay kumar
 
+second day continuing  with git 
+
 Adding new line
 :wq
 
